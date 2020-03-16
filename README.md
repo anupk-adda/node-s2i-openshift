@@ -81,3 +81,5 @@ When the build has deployed, click the External Traffic Route and you should see
 You can enter any strings for username and password, for instance test/test... because the app is just running in demo mode.
 
 And you've deployed a Node.js app to Kubernetes using OpenShift S2I.
+
+minor changes
